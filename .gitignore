@@ -4,7 +4,6 @@
 
 /Docker/.env
 
-.vscode
 
 # Logs
 logs/**.json
@@ -25,7 +24,6 @@ docker-compose.yaml
 /package-lock.json
 
 # IDEs
-.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -48,3 +46,4 @@ docker-compose.yaml
 .DS_Store
 *.DS_Store
 .tool-versions
+config.bat
