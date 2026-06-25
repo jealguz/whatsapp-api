@@ -23,7 +23,6 @@ lerna-debug.log*
 /pnpm-lock.yaml
 
 # IDEs
-.vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -53,3 +52,4 @@ lerna-debug.log*
 # Claude Code local settings
 .claude/
 _evo*
+config.bat
